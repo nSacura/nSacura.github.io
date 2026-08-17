@@ -1,0 +1,12 @@
+.custom-scroll-loading {
+  display: flex;
+  justify-content: center;
+  padding: 12px 0 24px;
+}
+
+.custom-scroll-loading__image {
+  display: block;
+  width: 160px;
+  height: 120px;
+  object-fit: contain;
+}
